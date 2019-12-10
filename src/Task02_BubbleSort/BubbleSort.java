@@ -1,10 +1,6 @@
 package Task02_BubbleSort;
 
-/**
- * Created by juta on 12/5/2019.
- */
-
-public class Task02 {
+public class BubbleSort {
 
     public static void main (String[] args) {
         int arr[];

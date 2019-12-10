@@ -2,11 +2,7 @@ package Task04_RemoveFromArray;
 
 import java.util.Arrays;
 
-/**
- * Created by juta on 12/6/2019.
- */
-
-public class Task04 {
+public class RemoveFromArray {
 
     public static void main(String[] args) {
         int arr[] = {1,2,3,4,5};

@@ -1,10 +1,6 @@
 package Task01_MaxMinAverage;
 
-/**
- * Created by juta on 12/5/2019.
- */
-
-public class Task01 {
+public class MaxMinAverage {
 
     public static void main(String[] args) {
         int arr[];

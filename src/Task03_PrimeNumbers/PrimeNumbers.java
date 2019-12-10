@@ -1,10 +1,6 @@
 package Task03_PrimeNumbers;
 
-/**
- * Created by juta on 12/5/2019.
- */
-
-public class Task03 {
+public class PrimeNumbers {
 
     public static void main(String[] args) {
 
