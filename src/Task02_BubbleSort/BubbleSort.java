@@ -5,6 +5,7 @@ public class BubbleSort {
     public static void main (String[] args) {
         int arr[];
         arr = new int[10];
+        System.out.println("Неотсортированный массив: ");
         for (int i = 0; i < arr.length; i++) {
             arr[i] = ((int) (Math.random() * 50));
             System.out.print(arr[i] + " ");
@@ -21,9 +22,10 @@ public class BubbleSort {
         }
 
         System.out.println();
-
-        for (int v : arr)
+        System.out.println("Отсортированный массив: ");
+        for (int v : arr) {
             System.out.print(v + " ");
+        }
 
     }
 }

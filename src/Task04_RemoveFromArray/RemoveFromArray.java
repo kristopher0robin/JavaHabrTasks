@@ -27,5 +27,4 @@ public class RemoveFromArray {
         return Arrays.copyOf(arr, arr.length - offset);
 
     }
-
 }

@@ -24,6 +24,14 @@ public class Vector {
             return x * vector.x + y * vector.y + z * vector.z;
         }
 
+        // векторное произведение
+        public Vector vectorProduct(Vector vector) {
+            return new Vector(
+                    y * vector.z - z * vector.y,
+                    z * vector.x - x * vector.z,
+                    x * vector.y - y * vector.x);
+        }
+
         public static Vector[] generate(int n){
             Vector[] vectors = new Vector[n];
             for(int i =0; i < n; i++){
@@ -38,7 +46,7 @@ public class Vector {
             System.out.println(vectors[1]);
             System.out.println("Длина вектора: " + vectors[0].vectorLength());
             System.out.println("Скалярное проивзведение: " + vectors[0].innerProduct(vectors[1]));
+            System.out.println("Векторное произведение: " + vectors[0].vectorProduct(vectors[1]));
         }
-
-    }
+}
 
