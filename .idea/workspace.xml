@@ -2,47 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="745e2eeb-6305-4c95-9a32-d918b0ad77bb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task08_BinarySearch/BinarySearchSecond.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task08_BinarySearch/Task08_01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task08_BinarySearch/Task08_02.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task08_BinarySearch/Task08_03.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task11_3DShape/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task12_TemperatureConverter/TemperatureConverter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task12_TemperatureConverter/z_theory" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task13_ArrayIterator/ArrayIterator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task13_ArrayIterator/z_theory" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task14_Collections/Collections.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task14_Collections/z_theory" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task15_ThreadStates/ThreadStates.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task15_ThreadStates/z_theory" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task16_ThreadSynchronization/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task16_ThreadSynchronization/z_theory" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task17_Annotation/CustomThreadPoolExecutor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task18_SelectionSort/SelectionSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task18_SelectionSort/SelectionSort2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task18_SelectionSort/z_task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task19_BubbleAndSelectionSort/TimeComparision.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaHabrTasks/Task01_MaxMinAverage/Task01.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaHabrTasks/Task02_BubbleSort/Task02.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaHabrTasks/Task03_PrimeNumbers/Task03.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaHabrTasks/Task04_RemoveFromArray/Task04.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaHabrTasks/Task05_Vector/Task05.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaHabrTasks/Task05_Vector/z_theory" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaHabrTasks/Task06/Task06.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaHabrTasks/Task06/z_task" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task20_PerformanceLab/Task01/Task01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Task20_PerformanceLab/Task01/file.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaHabrTasks/Task19_BubbleAndSelectionSort/TimeComparision.class" afterPath="$PROJECT_DIR$/out/production/JavaHabrTasks/Task19_BubbleAndSelectionSort/TimeComparision.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaHabrTasks/Task01_MaxMinAverage/z_task" afterPath="$PROJECT_DIR$/out/production/JavaHabrTasks/Task01_MaxMinAverage/z_task" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaHabrTasks/Task02_BubbleSort/z_task" afterPath="$PROJECT_DIR$/out/production/JavaHabrTasks/Task02_BubbleSort/z_task" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaHabrTasks/Task03_PrimeNumbers/z_task" afterPath="$PROJECT_DIR$/out/production/JavaHabrTasks/Task03_PrimeNumbers/z_task" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaHabrTasks/Task04_RemoveFromArray/z_task" afterPath="$PROJECT_DIR$/out/production/JavaHabrTasks/Task04_RemoveFromArray/z_task" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Task02_BubbleSort/BubbleSort.java" afterPath="$PROJECT_DIR$/src/Task02_BubbleSort/BubbleSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Task04_RemoveFromArray/RemoveFromArray.java" afterPath="$PROJECT_DIR$/src/Task04_RemoveFromArray/RemoveFromArray.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Task05_Vector/Vector.java" afterPath="$PROJECT_DIR$/src/Task05_Vector/Vector.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Task06_RandomFromArray/RandomFromArray.java" afterPath="$PROJECT_DIR$/src/Task06_RandomFromArray/RandomFromArray.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Task08_BinarySearch/BinarySearch.java" afterPath="$PROJECT_DIR$/src/Task08_BinarySearch/BinarySearch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Task09_EquationRoots/EquationRoots.java" afterPath="$PROJECT_DIR$/src/Task09_EquationRoots/EquationRoots.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Task10_BinaryTreeSearch/BinaryTreeSearch.java" afterPath="$PROJECT_DIR$/src/Task10_BinaryTreeSearch/BinaryTreeSearch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Task11_3DShape/Shape.java" afterPath="$PROJECT_DIR$/src/Task11_3DShape/Shape.java" />
     </list>
     <ignored path="JavaHabrTasks.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -67,11 +30,103 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TimeComparision.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Task19_BubbleAndSelectionSort/TimeComparision.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task16_ThreadSynchronization/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.425">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="z_theory" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task16_ThreadSynchronization/z_theory">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="z_theory" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task15_ThreadStates/z_theory">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="z_theory" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task14_Collections/z_theory">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="z_theory" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task13_ArrayIterator/z_theory">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomThreadPoolExecutor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task17_Annotation/CustomThreadPoolExecutor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SelectionSort2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task18_SelectionSort/SelectionSort2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayIterator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Task13_ArrayIterator/ArrayIterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.041162226">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task01.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task20_PerformanceLab/Task01/Task01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="139" selection-start-line="15" selection-start-column="139" selection-end-line="15" selection-end-column="139" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="file.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task20_PerformanceLab/Task01/file.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -97,10 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Task03_PrimeNumbers/Task03.java" />
-        <option value="$PROJECT_DIR$/src/Task04_RemoveFromArray/Task04.java" />
-        <option value="$PROJECT_DIR$/src/Task05_Vector/Task05.java" />
-        <option value="$PROJECT_DIR$/src/Task06/z_task" />
         <option value="$PROJECT_DIR$/src/Task06/Task06.java" />
         <option value="$PROJECT_DIR$/src/Task06_RandomFromArray/Task06.java" />
         <option value="$PROJECT_DIR$/src/Task01_MaxMinAverage/MaxMinAverage.java" />
@@ -148,6 +199,10 @@
         <option value="$PROJECT_DIR$/src/Task08_BinarySearch/Task08_03.java" />
         <option value="$PROJECT_DIR$/src/Task02_BubbleSort/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/Task19_BubbleAndSelectionSort/TimeComparision.java" />
+        <option value="$PROJECT_DIR$/src/Task20/file.txt" />
+        <option value="$PROJECT_DIR$/src/Task20/Task01.java" />
+        <option value="$PROJECT_DIR$/src/Task20/Task01/Task01.java" />
+        <option value="$PROJECT_DIR$/src/Task20_PerformanceLab/Task01/Task01.java" />
       </list>
     </option>
   </component>
@@ -157,10 +212,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="531" />
-    <option name="y" value="31" />
-    <option name="width" value="780" />
-    <option name="height" value="766" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1320" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -221,6 +276,46 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task20_PerformanceLab" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaHabrTasks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaHabrTasks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task20_PerformanceLab" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaHabrTasks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaHabrTasks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -238,28 +333,11 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Task08_BinarySearch" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\juta\Desktop\Java [HabrTasks]\Projects\JavaHabrTasks\src\Task20\Task01" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.TimeComparision">
-    <configuration default="false" name="Vector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Task05_Vector.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Task05_Vector.Vector" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaHabrTasks" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Task01">
     <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -328,6 +406,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Task19_BubbleAndSelectionSort.TimeComparision" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaHabrTasks" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Task01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Task20_PerformanceLab.Task01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Task20_PerformanceLab.Task01.Task01" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -717,19 +815,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Vector" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SelectionSort2" />
-      <item index="3" class="java.lang.String" itemvalue="Application.BubbleSort" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TimeComparision" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SelectionSort2" />
+      <item index="2" class="java.lang.String" itemvalue="Application.BubbleSort" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TimeComparision" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Task01" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TimeComparision" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BubbleSort" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SelectionSort2" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Vector" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Task01" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TimeComparision" />
+        <item index="2" class="java.lang.String" itemvalue="Application.BubbleSort" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SelectionSort2" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -781,29 +879,30 @@
       <workItem from="1577113143599" duration="219000" />
       <workItem from="1577169211983" duration="589000" />
       <workItem from="1577174828729" duration="102000" />
-      <workItem from="1577174953471" duration="8678000" />
+      <workItem from="1577174953471" duration="13440000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83801000" />
+    <option name="totallyTimeSpent" value="88563000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="531" y="31" width="780" height="766" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33333334" sideWeight="0.4815951" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32411674" sideWeight="0.4815951" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5184049" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861635" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32385466" sideWeight="0.49386504" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32258064" sideWeight="0.49386504" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28055555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17380953" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872504" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -852,27 +951,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Task03_PrimeNumbers/PrimeNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task02_BubbleSort/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task04_RemoveFromArray/RemoveFromArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Task05_Vector/Vector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -985,31 +1063,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task13_ArrayIterator/z_theory">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Task12_TemperatureConverter/z_theory">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task14_Collections/z_theory">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task15_ThreadStates/z_theory">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -1069,31 +1126,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task16_ThreadSynchronization/z_theory">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task16_ThreadSynchronization/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task17_Annotation/CustomThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Task12_TemperatureConverter/TemperatureConverter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1118,14 +1150,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task13_ArrayIterator/ArrayIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Task14_Collections/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1135,14 +1159,6 @@
             <element signature="e#158#159#0" expanded="false" />
             <element signature="e#189#190#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task01_MaxMinAverage/MaxMinAverage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1202,14 +1218,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task18_SelectionSort/SelectionSort2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Task08_BinarySearch/Task08_02.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1226,10 +1234,108 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task01_MaxMinAverage/MaxMinAverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="35" selection-start-line="5" selection-start-column="7" selection-end-line="32" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/jre/lib/rt.jar!/java/util/stream/Stream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Task19_BubbleAndSelectionSort/TimeComparision.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.425">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task18_SelectionSort/SelectionSort2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task17_Annotation/CustomThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task16_ThreadSynchronization/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task16_ThreadSynchronization/z_theory">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task15_ThreadStates/z_theory">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task14_Collections/z_theory">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task13_ArrayIterator/z_theory">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task20_PerformanceLab/Task01/file.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task20_PerformanceLab/Task01/Task01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="139" selection-start-line="15" selection-start-column="139" selection-end-line="15" selection-end-column="139" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task13_ArrayIterator/ArrayIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.041162226">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
