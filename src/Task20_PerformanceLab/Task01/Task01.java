@@ -2,11 +2,12 @@ package Task20_PerformanceLab.Task01;
 
 /**
  * 24.12
- * Недостатки: не рассчитывает медиану и перцентиль, нет ввода имени файла со строки, файл захардкожен, говнокод в считывании строки
+ * Недостатки: нет ввода имени файла со строки, файл захардкожен
  */
 
 import java.io.*;
 import java.util.ArrayList;
+import java.util.Scanner;
 
 public class Task01 {
 
@@ -14,18 +15,17 @@ public class Task01 {
 
         try {
             File file = new File("C:\\Users\\juta\\Desktop\\Java [HabrTasks]\\Projects\\JavaHabrTasks\\src\\Task20_PerformanceLab\\Task01\\file.txt");
-            FileReader fr = new FileReader(file);
-            BufferedReader reader = new BufferedReader(fr);
-            String line = reader.readLine();
-            ArrayList<Integer> arr = new ArrayList();
-            arr.add(Integer.parseInt(line));
-            while (line != null) {
-                line = reader.readLine();
-                if (line != null) {
-                    arr.add(Integer.parseInt(line));
-                }
+            Scanner sc = new Scanner(file);
+
+            ArrayList<Integer> arr = new ArrayList<>();
+
+            while(sc.hasNext()) {
+                String line = sc.next();
+                arr.add(Integer.parseInt(line));
             }
+
             System.out.print(arr);
+
             int max = arr.get(arr.size() - 1);
             int min = arr.get(0);
             int sum = 0;
@@ -42,12 +42,18 @@ public class Task01 {
                 avg = sum / arr.size();
             }
 
+            int mid = arr.size() / 2;
+            mid = mid > 0 && mid % 2 == 0 ? mid - 1 : mid;
+
+            double percInd = arr.size() * 0.9;
+            int perc = arr.get((int)percInd);
+
             System.out.println();
             System.out.println("Максимальное число: " + max);
             System.out.println("Минимальное число: " + min);
             System.out.println("Среднее арифметическое: " + avg);
-            System.out.println("Медиана: ");
-            System.out.println("Перцентиль: ");
+            System.out.println("Медиана: " + mid);
+            System.out.println("Перцентиль 90% " + perc);
 
         } catch (FileNotFoundException e) {
             e.printStackTrace();
